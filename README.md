@@ -10,11 +10,11 @@ In this comprehensive tutorial, we will guide you through the process of buildin
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-blockchain-web3-tools:-next.js-solana-binance-solidity-and-ico-marketplace)
+
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/0TwuL8V9zUE?si=UFuWkzh-DofBndjp)
+
 
 ```
   WATCH: Setup & Demo Of Project
@@ -38,31 +38,6 @@ Kindly follow the following Instructions to run the project in your system and i
 ```https://pinata.cloud
  GET PINATA API KEY
  GET PINATA SECRET KEY
-```
-
-#### Clone Starter File
-
-```https://github.com/daulathussain/Airdrop-Crypto-Starter-File
-  GET: Project Starter File Download
-```
-
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
-
-## Final Code Instruction
-
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
-
-#### Setup Video
-
-```
-  WATCH: Setup & Demo Of Project
-```
-
-#### Final Source Code
-
-```
-  Download the Final Source Code
-  URL: https://www.theblockchaincoders.com/SourceCode
 ```
 
 #### Install Vs Code Editor
@@ -127,12 +102,9 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 ## Important Links
 
 - [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
+
 
 ## Authors
 
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
+
 # medical-dapp
