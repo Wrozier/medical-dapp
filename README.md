@@ -6,11 +6,6 @@ In this comprehensive tutorial, we will guide you through the process of buildin
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/07/Build-Deploy-a-Medical-Health-Management-Blockchain-Dapp-Solidity-Hardhat-Nextjs-Context-AP-and-web3-providers.jpg)
-
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-
 
 #### Setup Video
 
@@ -101,7 +96,6 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 
 ## Important Links
 
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
 
 
 ## Authors
